@@ -1,6 +1,6 @@
-# 👋 ¡Hey! Soy un desarrollador de software
+# 👋 ¡Hey! Soy Jordan y soy un ingeniero de software
 
-💻 Me apasiona convertir ideas en software, construir soluciones tecnológicas y explorar nuevas formas de crear con código.
+💻 Me apasiona convertir ideas en software funcional y  construir soluciones tecnológicas.
 
 Soy un desarrollador interesado en múltiples áreas de la tecnología, desde el desarrollo de aplicaciones y sistemas backend hasta la creación de experiencias interactivas mediante videojuegos. Me gusta experimentar con diferentes herramientas, aprender constantemente y llevar mis proyectos desde la idea inicial hasta una solución funcional.
 
